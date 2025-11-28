@@ -4,52 +4,85 @@ weight = 20
 draft = false
 +++
 
-### Keynote Speakers
+### Speakers
 
 <div class="speakers-grid" style="display: flex; flex-wrap: wrap; gap: 2rem;">
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/JoanaCabral.jpg" alt="Joana Cabral" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Joana Cabral</h3>
-    <p style="margin: 0; font-size: 1rem;">University of Lisbon<br><span style="color: #888;"></span></p>
+    <img src="images/StuartKauffman.jpg" alt="Stuart Kauffman" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Stuart Kauffman</h3>
+    <p style="margin: 0; font-size: 1rem;">Institute for Systems Biology<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/KarlFriston.jpg" alt="Karl Friston" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Karl Friston</h3>
-    <p style="margin: 0; font-size: 1rem;">University College London<br><span style="color: #888;"></span></p>
+    <img src="images/MelanieBoly.jpg" alt="Melanie Boly" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Melanie Boly</h3>
+    <p style="margin: 0; font-size: 1rem;">University of Wisconsin<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/AxelHutt.jpg" alt="Axel Hutt" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Axel Hutt</h3>
-    <p style="margin: 0; font-size: 1rem;">INRIA<br><span style="color: #888;"></span></p>
+    <img src="images/JakubVorzycek.jpg" alt="Jakub Vorzycek" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Jakub Vorzycek</h3>
+    <p style="margin: 0; font-size: 1rem;">University Pompeu Fabra, Barcelona<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/StephenCoombes.png" alt="Stephen Coombes" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Stephen Coombes</h3>
-    <p style="margin: 0; font-size: 1rem;">University of Nottingham<br><span style="color: #888;"></span></p>
+    <img src="images/LaiSangYoung.jpg" alt="Lai-Sang Young" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Lai-Sang Young</h3>
+    <p style="margin: 0; font-size: 1rem;">New York University<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/ChrisMathys.jpg" alt="Christoph Mathys" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Christoph Mathys</h3>
-    <p style="margin: 0; font-size: 1rem;">Aarhus University<br><span style="color: #888;"></span></p>
-  </div>
-
-  <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/LyleMuller.jpeg" alt="Lyle Muller" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Lyle Muller</h3>
-    <p style="margin: 0; font-size: 1rem;">Western University<br><span style="color: #888;"></span></p>
+    <img src="images/DanielPolani.jpg" alt="Daniel Polani" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Daniel Polani</h3>
+    <p style="margin: 0; font-size: 1rem;">University of Hertefordshire<br><span style="color: #888;"></span></p>
   </div>
 
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/ShellaKeilholz.jpg" alt="Shella Keilholz" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Shella Keilholz</h3>
-    <p style="margin: 0; font-size: 1rem;">Emory University<br><span style="color: #888;"></span></p>
+    <img src="images/LionelBarnett.jpg" alt="Lionel Barnett" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Lionel Barnett</h3>
+    <p style="margin: 0; font-size: 1rem;">University of Sussex<br><span style="color: #888;"></span></p>
   </div>
 
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/PetraRitter.jpg" alt="Petra Ritter" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Petra Ritter</h3>
+    <img src="images/LenoreBlum.jpg" alt="Lenore Blum" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Lenore Blum</h3>
+    <p style="margin: 0; font-size: 1rem;">Carnegie Mellon University<br><span style="color: #888;"></span></p>
+  </div>
+
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="images/ChrisHarris.jpg" alt="Chris Harris" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Chris Harris</h3>
+    <p style="margin: 0; font-size: 1rem;">Backyard Brains<br><span style="color: #888;"></span></p>
+  </div>
+
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="images/WilliamMarshall.jpg" alt="William Marshall" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">William Marshall</h3>
+    <p style="margin: 0; font-size: 1rem;">Brock University<br><span style="color: #888;"></span></p>
+  </div>
+
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="images/JilMeier.jpg" alt="Jil Meier" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Jil Meier</h3>
     <p style="margin: 0; font-size: 1rem;">Charite University<br><span style="color: #888;"></span></p>
   </div>
+
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="images/AndrewLee.jpg" alt="Andrew Lee" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Andrew Lee</h3>
+    <p style="margin: 0; font-size: 1rem;">University of Toronto<br><span style="color: #888;"></span></p>
+  </div>
+
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="images/PhapLinh.jpg" alt="Phap Linh" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Phap Linh</h3>
+    <p style="margin: 0; font-size: 1rem;">Plum Village<br><span style="color: #888;"></span></p>
+  </div>
+
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="images/NogaZaslavsky.jpg" alt="Noga Zaslavsky" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Noga Zaslavsky</h3>
+    <p style="margin: 0; font-size: 1rem;">New York University<br><span style="color: #888;"></span></p>
+  </div>
+
+
+
 
   
   <!-- Add more speaker cards as needed -->
