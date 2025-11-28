@@ -18,8 +18,8 @@ draft = false
     <p style="margin: 0; font-size: 1rem;">University of Wisconsin<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/JakubVohryzcek.jpg" alt="Jakub Vohryzcek" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Jakub Vohryzcek</h3>
+    <img src="images/JakubVohryzek.jpg" alt="Jakub Vohryzek" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Jakub Vohryzek</h3>
     <p style="margin: 0; font-size: 1rem;">University Pompeu Fabra, Barcelona<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
