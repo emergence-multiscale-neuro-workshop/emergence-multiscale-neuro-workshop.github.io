@@ -1,11 +1,11 @@
 ---
-title: "BrainModes 2025"
+title: "Multi-Scale Modelling and Emergence in Neural and Cognitive Science"
 title_lines:
-  - "BrainModes 2025"
-  - "8-10 October"
+  - "Multi-Scale Modelling and Emergence in Neural and Cognitive Science"
+  - "9-11 December"
   - "Toronto, Canada"
 description: |  
-  ***An international meeting on theoretical neuroscience and macro-scale brain organization.*** 
+  ***An international, interdisciplinary meeting at the Fields Institute for Mathematical Sciences*** 
     
-  **8th-10th OCTOBER |  TORONTO, CANADA**
+  **9th-11th DECEMBER |  TORONTO, CANADA**
 ---
