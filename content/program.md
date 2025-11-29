@@ -18,11 +18,6 @@ draft = false
     <p style="margin: 0; font-size: 1rem;">University of Wisconsin<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/JakubVohryzek.jpg" alt="Jakub Vohryzek" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Jakub Vohryzek</h3>
-    <p style="margin: 0; font-size: 1rem;">University Pompeu Fabra, Barcelona<br><span style="color: #888;"></span></p>
-  </div>
-  <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/LaiSangYoung.jpg" alt="Lai-Sang Young" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Lai-Sang Young</h3>
     <p style="margin: 0; font-size: 1rem;">New York University<br><span style="color: #888;"></span></p>
@@ -55,12 +50,6 @@ draft = false
     <img src="images/WilliamMarshall.jpg" alt="William Marshall" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">William Marshall</h3>
     <p style="margin: 0; font-size: 1rem;">Brock University<br><span style="color: #888;"></span></p>
-  </div>
-
-  <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/JilMeier.jpg" alt="Jil Meier" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Jil Meier</h3>
-    <p style="margin: 0; font-size: 1rem;">Charite University<br><span style="color: #888;"></span></p>
   </div>
 
   <div class="speaker-card" style="width: 200px; text-align: center;">
