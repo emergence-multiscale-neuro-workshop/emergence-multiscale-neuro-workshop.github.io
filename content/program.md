@@ -114,7 +114,7 @@ draft = false
 
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
 
-{{< session time="11:15" title="🎓 Session 2" tooltip="Session 2" bg="#2c2c2c" border="#a8d5ba" >}}  
+{{< session time="11:15" title="🎓 Session 5" tooltip="Session 5" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **Stuart Kaufman** - *A theoretical computer science perspective on consciousness*  
 {{< /session >}}  
 
@@ -127,7 +127,7 @@ draft = false
 
 {{< session time="15:45" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
 
-{{< session time="16:00" title="🎓 Session 2" tooltip="Session 2" bg="#2c2c2c" border="#a8d5ba" >}}  
+{{< session time="16:00" title="🎓 Session 7" tooltip="Session 7" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **All speakers** - *Panel discussion*  
 {{< /session >}}  
 
@@ -139,16 +139,14 @@ draft = false
 
 {{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}  
 
-{{< session time="09:00" title="🎓 Session 7" tooltip="Session 7" bg="#2c2c2c" border="#a8d5ba" >}}  
+{{< session time="10:00" title="🎓 Session 8" tooltip="Session 8" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **John D. Griffiths** - *The curious case of the first eigenvector*  
+- **Lai-Sang Young** - *Dynamical systems and consciousness*  
 {{< /session >}}  
 
-{{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
-- **Lai-Sang Young** - *Dynamical systems and consciousness*  
+{{< session time="12:00" title="🍽️ Lunch" tooltip="lunch" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
-{{< session time="13:00" title="🍽️ Lunch" tooltip="lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
-
-{{< session time="14:00" title="🎓 Session 9" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}  
+{{< session time="13:00" title="🎓 Session 9" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **All speakers** - *Panel Discussion*  
 - **Organizers** - *Concluding remarks* 
 {{< /session >}}
