@@ -9,11 +9,11 @@ draft = false
 
 <!-- The workshop is titled ***"multi-scale modelling and emergence in neural and cognitive science"***. -->
 
-The aim of this workshop is to bring together practitioners in mathematical, physical, computational and cognitive neurosciences to discuss their latest work and ideas on multi-scale modelling and emergent phenomena. 
+The aim of this workshop is to bring together practitioners in mathematical, computational and cognitive neurosciences as well as pioneering figures in adjacent areas addressing related themes in order to discuss their latest work and share ideas on multi-scale methods and emergent phenomena. 
 
-Confirmed speakers include ***Stuart Kaufman***, ***Melanie Boly***, ***Lenore Blum***, ***Daniel Polani***, ***Lionel Barnett***, ***Noga Zaslavsky***, ***William Marshall***, ***Lai-Sang Young*** and ***Chris Harris***. See the [**here**]({{< relroot >}}#program) for the full list of speakers and preliminary conference program. 
+Confirmed speakers include ***Stuart Kauffman***, ***Lenore Blum***, ***Lai-Sang Young***, ***Melanie Boly***, ***Daniel Polani***, ***Lionel Barnett***, ***Noga Zaslavsky***, ***William Marshall*** and ***Chris Harris***. Also confirmed is a special contemplative interlude led by zen Buddhist monk ***Br. Phap Linh***. See the [**here**]({{< relroot >}}#program) for the full list of speakers and preliminary conference program. 
 
-The workshop is the final installment in the Fields Institute **[2025 Thematic Program in Mathematical Neuroscience](http://www.fields.utoronto.ca/activities/25-26/neuroscience)**, which has hosted a series of meetings, visiting researchers, and facilitated collaborations in Toronto and Ottawa throughout the year. 
+The workshop is the final installment in the Fields Institute **[2025 Thematic Program in Mathematical Neuroscience](http://www.fields.utoronto.ca/activities/25-26/neuroscience)**, which has hosted a series of meetings, visiting researchers, and facilitated collaborations in Toronto <!--and Ottawa--> throughout the year. 
 
 
 
