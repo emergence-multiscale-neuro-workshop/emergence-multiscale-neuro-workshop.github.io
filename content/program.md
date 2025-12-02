@@ -97,9 +97,9 @@ draft = false
 - **Andrew Lee** -  "The future of consciousness"  
 {{< /session >}}  
 
-{{< session time="16:00" title="🎓 Posters" tooltip="Panel Discussion" bg="#2c2c2c" border="#a8d5ba" >}}{{< /session >}}   
-- **All speakers** - *Panel Discussion*  
-  
+{{< session time="16:00" title="🎓 Panel Discussion" tooltip="Panel Discussion" bg="#2c2c2c" border="#a8d5ba" >}} 
+*Melanie Boly, William Marshall, Lenore Blum, Lionel Barnett, Andrew Lee*  
+{{< /session >}} 
 
 ---
 
@@ -127,8 +127,8 @@ draft = false
 
 {{< session time="15:45" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
 
-{{< session time="16:00" title="🎓 Session 7" tooltip="Session 7" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **All speakers** - *Panel discussion*  
+{{< session time="16:00" title="🎓 Panel Discussion" tooltip="" bg="#2c2c2c" border="#a8d5ba" >}}  
+*Daniel Polani, Noga Zaslavsky, Stuart Kaufman, Phap Linh, Chris Harris*
 {{< /session >}}  
 
 
@@ -147,8 +147,8 @@ draft = false
 {{< session time="12:00" title="🍽️ Lunch" tooltip="lunch" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
 {{< session time="13:00" title="🎓 Session 9" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **All speakers** - *Panel Discussion*  
-- **Organizers** - *Concluding remarks* 
+- **All in attendance** - *Freeform discussion*  
+- **Organizers** - *Concluding remarks*  
 {{< /session >}}
 
 
