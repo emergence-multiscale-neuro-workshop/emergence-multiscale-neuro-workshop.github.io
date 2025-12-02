@@ -15,19 +15,13 @@ Confirmed speakers include ***Stuart Kauffman***, ***Lenore Blum***, ***Lai-Sang
 
 The workshop is the final installment in the Fields Institute **[2025 Thematic Program in Mathematical Neuroscience](http://www.fields.utoronto.ca/activities/25-26/neuroscience)**, which has hosted a series of meetings, visiting researchers, and facilitated collaborations in Toronto <!--and Ottawa--> throughout the year. 
 
-
-
-<br> <br>
+<br>
 
 ### Register and Visit
 
-[**Registration is open!**](/#register). Note that numbers are limited, so be sure to register early to guarantee a place. 
+[**Registration is open!**](/#register). Note that numbers are limited, so be sure to register early to guarantee a place. Attendance is free of charge.
 
-Attendance is free. 
-
-
-
-<br> <br> 
+<br> 
 
 ### Venue
 
@@ -63,25 +57,25 @@ Right next door to Fields is the ***Krembil Centre for Neuroinformatics (KCNI)**
 
 
 
-<br> <br>
+<br>
 
 ### Organizing Committee
 
 <div class="speakers-grid" style="display: flex; flex-wrap: wrap; gap: 2rem;">
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h5 style="margin: 1rem 0 0.5rem;">John Griffiths</h5>
-    <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
+    <img src="images/MaiaFraser.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h5 style="margin: 1rem 0 0.5rem;">Maia Fraser</h5>
+    <p style="margin: 0; font-size: 0.75rem;">University of Ottawa<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/NadavAmir.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Nadav Amir</h5>
     <p style="margin: 0; font-size: 0.75rem;">Princeton University / Fields Institute<br><span style="color: #888;"></span></p>
   </div>
-  <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h5 style="margin: 1rem 0 0.5rem;">Maia Fraser</h5>
-    <p style="margin: 0; font-size: 0.75rem;">University of Ottawa<br><span style="color: #888;"></span></p>
+    <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="images/JohnGriffiths.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h5 style="margin: 1rem 0 0.5rem;">John Griffiths</h5>
+    <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <!-- Add more speaker cards as needed -->
 </div>
