@@ -87,7 +87,7 @@ draft = false
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}
 
 {{< session time="11:15" title="🎓 Session 2" tooltip="Session 2" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Keynote: Lenore Blum** - *A theoretical computer science perspective on consciousness*  
+- **Keynote: Lenore Blum** - *TBD*  
 {{< /session >}}  
 
 {{< session time="13:00" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
