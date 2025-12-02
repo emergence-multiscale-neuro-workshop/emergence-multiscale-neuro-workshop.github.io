@@ -89,7 +89,7 @@ Right next door to Fields is the ***Krembil Centre for Neuroinformatics (KCNI)**
 
 <br>
 
-<img src="/images/FieldsInstituteLogo.png" alt="Fields Logo" style="border-radius: 12px; width: 325px; display: block; margin-right: auto; margin-left: auto">
+<img src="images/FieldsInstituteLogo.png" alt="Fields Logo" style="border-radius: 12px; width: 325px; display: block; margin-right: auto; margin-left: auto">
 
 <br>
 
