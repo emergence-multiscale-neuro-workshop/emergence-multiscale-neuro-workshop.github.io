@@ -80,20 +80,20 @@ draft = false
 {{< session time="09:00" title="🎤 Opening Remarks" tooltip="Welcome from the organizers" bg="#2c2c2c" border="#c7d4e2" >}}{{< /session >}}  
 
 {{< session time="09:15" title="🎓 Session 1" tooltip="Session 1" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Melanie Boly** - *Consciousness: From Theory to Practice*  
+- **Keynote: Melanie Boly** - *Consciousness: From Theory to Practice*  
 - **William Marshall** - *Integrated Information Across Spatiotemporal Grains*  
 {{< /session >}}
 
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}
 
 {{< session time="11:15" title="🎓 Session 2" tooltip="Session 2" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Lenore Blum** - *A theoretical computer science perspective on consciousness*  
+- **Keynote: Lenore Blum** - *A theoretical computer science perspective on consciousness*  
 {{< /session >}}  
 
 {{< session time="13:00" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
 {{< session time="14:00" title="🎓 Session 3" tooltip="Session 3" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Lionel Barnett** - *Dynamical Independence: Identification and discovery of emergent macroscopic phenomena in complex neural systems*  
+- **Keynote: Lionel Barnett** - *Dynamical Independence: Identification and discovery of emergent macroscopic phenomena in complex neural systems*  
 - **Andrew Lee** -  "The future of consciousness"  
 {{< /session >}}  
 
@@ -108,20 +108,20 @@ draft = false
 {{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}  
 
 {{< session time="09:00" title="🎓 Session 4" tooltip="Session 1" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Daniel Polani** - *TBD*  
+- **Keynote: Daniel Polani** - *TBD*  
 - **Noga Zaslavsky** - *TBD*  
 {{< /session >}}  
 
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
 
 {{< session time="11:15" title="🎓 Session 5" tooltip="Session 5" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Stuart Kaufman** - *A theoretical computer science perspective on consciousness*  
+- **Keynote: Stuart Kaufman** - *A theoretical computer science perspective on consciousness*  
 {{< /session >}}  
 
 {{< session time="13:00" title="🍽️ Lunch" tooltip="" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
 {{< session time="14:00" title="🎓 Session 6" tooltip="Session 6" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Phap Linh** - *Guided meditation session*  
+- **Special session: Phap Linh** - *Guided meditation*  
 - **Chris Harris** - *Embodied neurorobotics*  
 {{< /session >}}  
 
@@ -141,7 +141,7 @@ draft = false
 
 {{< session time="10:00" title="🎓 Session 8" tooltip="Session 8" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **John D. Griffiths** - *The curious case of the first eigenvector*  
-- **Lai-Sang Young** - *Dynamical systems and consciousness*  
+- **Keynote: Lai-Sang Young** - *Dynamical systems and consciousness*  
 {{< /session >}}  
 
 {{< session time="12:00" title="🍽️ Lunch" tooltip="lunch" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
