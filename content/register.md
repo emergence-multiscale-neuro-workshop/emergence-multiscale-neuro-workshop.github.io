@@ -10,7 +10,7 @@ The organizing committee and the Fields Institute are committed to facilitating 
 
 Attendance is therefore free of charge. 
 
-All planning to attend by zoom or in-person, please go to the [Fields website event page](https://fields.institute/activities/25-26/neuroscience-multiscale) to register. Due to space restrictions, there are a limited number of in-person places available.
+All planning to attend by zoom or in-person, please go to the [Fields website event page](http://fields.institute/activities/25-26/neuroscience-multiscale) to register. Due to space restrictions, there are a limited number of in-person places available.
 
 <br> 
 
