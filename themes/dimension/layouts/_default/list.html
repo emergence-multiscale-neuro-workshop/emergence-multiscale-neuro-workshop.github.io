@@ -16,13 +16,16 @@
                     </div>
                     <div class="content">
                         <div class="inner">
-                            <h1>{{ .Title | default "Title" }}</h1>
-                            {{ with .Params.description }}
-                            <p>
-                                {{ . | markdownify }}
-                            </p>
+            			    <div style="text-align: center; margin-bottom: 1rem;">  #  <!-- Inserted GIF here -->
+            				    <img src="/static/images/SlowMoWaves-MF.gif" alt="BrainModes Logo" style="height: 100px ;">
+			                </div>                            
+                                <h1>{{ .Title | default "Title" }}</h1>
+                                {{ with .Params.description }}
+                                <p>
+                                    {{ . | markdownify }}
+                                </p>
                             {{ end }}
-                        </div>
+                            </div>
                     </div>
                     <nav>
                         <ul>
