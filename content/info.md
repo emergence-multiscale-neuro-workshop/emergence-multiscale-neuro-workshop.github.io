@@ -9,7 +9,7 @@ draft = false
 
 <!-- The workshop is titled ***"multi-scale modelling and emergence in neural and cognitive science"***. -->
 
-The aim of this workshop is to bring together practitioners in mathematical, computational and cognitive neurosciences as well as pioneering figures in adjacent areas addressing related themes in order to discuss their latest work and share ideas on multi-scale methods and emergent phenomena. 
+The aim of this workshop is to stimulate advances in mathematical and cognitive neuroscience related to emergence. The event brings together practitioners in mathematics, computational and cognitive neurosciences, as well as pioneering figures in adjacent areas, in order to present their latest work on multi-scale methods and emergent phenomena, and to engage in lively discussions. 
 
 Confirmed speakers include ***Stuart Kauffman***, ***Lenore Blum***, ***Lai-Sang Young***, ***Melanie Boly***, ***Daniel Polani***, ***Lionel Barnett***, ***Noga Zaslavsky***, ***William Marshall*** and ***Chris Harris***. Also confirmed is a special contemplative interlude led by zen Buddhist monk ***Br. Phap Linh***. See the [**here**]({{< relroot >}}#program) for the full list of speakers and preliminary conference program. 
 
