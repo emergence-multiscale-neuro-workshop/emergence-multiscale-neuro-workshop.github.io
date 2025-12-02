@@ -13,7 +13,7 @@ The aim of this workshop is to stimulate advances in mathematical and cognitive 
 
 Confirmed speakers include ***Stuart Kauffman***, ***Lenore Blum***, ***Lai-Sang Young***, ***Melanie Boly***, ***Daniel Polani***, ***Lionel Barnett***, ***Noga Zaslavsky***, ***William Marshall*** and ***Chris Harris***. Also confirmed is a special contemplative interlude led by zen Buddhist monk ***Br. Phap Linh***. See the [**here**]({{< relroot >}}#program) for the full list of speakers and preliminary conference program. 
 
-The workshop is the final installment in the Fields Institute **[2025 Thematic Program in Mathematical Neuroscience](http://www.fields.utoronto.ca/activities/25-26/neuroscience)**, which has hosted a series of meetings, visiting researchers, and facilitated collaborations in Toronto <!--and Ottawa--> throughout the year. 
+The workshop is the final installment in the Fields Institute **[2025 Thematic Program in Mathematical Neuroscience](http://www.fields.utoronto.ca/activities/25-26/neuroscience)**, which has hosted a series of meetings, courses, visiting researchers, and facilitated collaborations in Toronto <!--and Ottawa--> throughout the year. 
 
 <br>
 
