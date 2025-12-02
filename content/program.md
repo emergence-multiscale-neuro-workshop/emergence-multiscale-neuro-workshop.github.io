@@ -121,7 +121,7 @@ draft = false
 {{< session time="13:00" title="🍽️ Lunch" tooltip="" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
 {{< session time="14:00" title="🎓 Session 6" tooltip="Session 6" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Special session: Phap Linh** - *Guided meditation*  
+- **Special session: Br. Phap Linh** - *Guided meditation*  
 - **Chris Harris** - *Embodied neurorobotics*  
 {{< /session >}}  
 
