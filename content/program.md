@@ -115,7 +115,7 @@ draft = false
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
 
 {{< session time="11:15" title="🎓 Session 5" tooltip="Session 5" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Keynote: Stuart Kaufman** - *A theoretical computer science perspective on consciousness*  
+- **Keynote: Stuart Kaufman** - *The Indefinite: A Third Transition in Science*  
 {{< /session >}}  
 
 {{< session time="13:00" title="🍽️ Lunch" tooltip="" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
@@ -128,7 +128,7 @@ draft = false
 {{< session time="15:45" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
 
 {{< session time="16:00" title="🎓 Panel Discussion" tooltip="" bg="#2c2c2c" border="#a8d5ba" >}}  
-*Daniel Polani, Noga Zaslavsky, Stuart Kaufman, Phap Linh, Chris Harris*
+*Daniel Polani, Noga Zaslavsky, Chris Harris*
 {{< /session >}}  
 
 
@@ -139,14 +139,20 @@ draft = false
 
 {{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}  
 
-{{< session time="10:00" title="🎓 Session 8" tooltip="Session 8" bg="#2c2c2c" border="#a8d5ba" >}}  
+{{< session time="9:00" title="🎓 Session 8" tooltip="Session 8" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **John D. Griffiths** - *The curious case of the first eigenvector*  
-- **Keynote: Lai-Sang Young** - *Dynamical systems and consciousness*  
+- TBD
+{{< /session >}}
+
+{{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}} 
+
+{{< session time="11:15" title="🎓 Session 9" tooltip="Session 5" bg="#2c2c2c" border="#a8d5ba" >}}  
+- **Keynote: Lai-Sang Young** - *Dynamical systems and consciousness*   
 {{< /session >}}  
 
 {{< session time="12:00" title="🍽️ Lunch" tooltip="lunch" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
-{{< session time="13:00" title="🎓 Session 9" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}  
+{{< session time="13:00" title="🎓 Session 10" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **All in attendance** - *Freeform discussion*  
 - **Organizers** - *Concluding remarks*  
 {{< /session >}}
