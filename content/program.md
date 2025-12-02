@@ -10,7 +10,7 @@ draft = false
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/StuartKauffman.jpg" alt="Stuart Kauffman" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Stuart Kauffman</h3>
-    <p style="margin: 0; font-size: 1rem;">Institute for Systems Biology<br><span style="color: #888;"></span></p>
+    <p style="margin: 0; font-size: 1rem;">University of Pennsylvania (emeritus)<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/LenoreBlumChair.png" alt="Lenore Blum" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
