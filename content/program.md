@@ -13,9 +13,9 @@ draft = false
     <p style="margin: 0; font-size: 1rem;">Institute for Systems Biology<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/MelanieBoly.jpg" alt="Melanie Boly" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Melanie Boly</h3>
-    <p style="margin: 0; font-size: 1rem;">University of Wisconsin<br><span style="color: #888;"></span></p>
+    <img src="images/LenoreBlum.jpg" alt="Lenore Blum" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Lenore Blum</h3>
+    <p style="margin: 0; font-size: 1rem;">Carnegie Mellon University<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/LaiSangYoung.jpg" alt="Lai-Sang Young" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
@@ -27,53 +27,41 @@ draft = false
     <h3 style="margin: 1rem 0 0.5rem;">Daniel Polani</h3>
     <p style="margin: 0; font-size: 1rem;">University of Hertefordshire<br><span style="color: #888;"></span></p>
   </div>
-
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/LionelBarnett.jpg" alt="Lionel Barnett" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Lionel Barnett</h3>
     <p style="margin: 0; font-size: 1rem;">University of Sussex<br><span style="color: #888;"></span></p>
   </div>
-
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/LenoreBlum.jpg" alt="Lenore Blum" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Lenore Blum</h3>
-    <p style="margin: 0; font-size: 1rem;">Carnegie Mellon University<br><span style="color: #888;"></span></p>
+    <img src="images/MelanieBoly.jpg" alt="Melanie Boly" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Melanie Boly</h3>
+    <p style="margin: 0; font-size: 1rem;">University of Wisconsin<br><span style="color: #888;"></span></p>
   </div>
-
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/ChrisHarris.jpg" alt="Chris Harris" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Chris Harris</h3>
     <p style="margin: 0; font-size: 1rem;">Backyard Brains<br><span style="color: #888;"></span></p>
   </div>
-
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/WilliamMarshall.jpg" alt="William Marshall" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">William Marshall</h3>
     <p style="margin: 0; font-size: 1rem;">Brock University<br><span style="color: #888;"></span></p>
   </div>
-
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/AndrewLee.jpg" alt="Andrew Lee" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Andrew Lee</h3>
     <p style="margin: 0; font-size: 1rem;">University of Toronto<br><span style="color: #888;"></span></p>
   </div>
-
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/PhapLinh.jpg" alt="Phap Linh" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Phap Linh</h3>
     <p style="margin: 0; font-size: 1rem;">Plum Village<br><span style="color: #888;"></span></p>
   </div>
-
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/NogaZaslavsky.jpg" alt="Noga Zaslavsky" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Noga Zaslavsky</h3>
     <p style="margin: 0; font-size: 1rem;">New York University<br><span style="color: #888;"></span></p>
   </div>
-
-
-
-
-  
   <!-- Add more speaker cards as needed -->
 </div>
 
