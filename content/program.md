@@ -53,14 +53,14 @@ draft = false
     <p style="margin: 0; font-size: 1rem;">University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/PhapLinh.jpg" alt="Phap Linh" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Phap Linh</h3>
-    <p style="margin: 0; font-size: 1rem;">Plum Village<br><span style="color: #888;"></span></p>
-  </div>
-  <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/NogaZaslavsky.jpg" alt="Noga Zaslavsky" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Noga Zaslavsky</h3>
     <p style="margin: 0; font-size: 1rem;">New York University<br><span style="color: #888;"></span></p>
+  </div>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="images/PhapLinh.jpg" alt="Phap Linh" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Phap Linh</h3>
+    <p style="margin: 0; font-size: 1rem;">Plum Village<br><span style="color: #888;"></span></p>
   </div>
   <!-- Add more speaker cards as needed -->
 </div>
