@@ -13,7 +13,7 @@ draft = false
     <p style="margin: 0; font-size: 1rem;">Institute for Systems Biology<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/LenoreBlumChair.jpg" alt="Lenore Blum" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/LenoreBlumChair.png" alt="Lenore Blum" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Lenore Blum</h3>
     <p style="margin: 0; font-size: 1rem;">Carnegie Mellon University<br><span style="color: #888;"></span></p>
   </div>
