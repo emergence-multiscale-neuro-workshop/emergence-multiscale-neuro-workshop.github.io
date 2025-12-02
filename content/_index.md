@@ -1,7 +1,7 @@
 ---
-title: "Multi-Scale Modelling and Emergence in Neural and Cognitive Science"
+title: "Multi-Scale Methods and Emergence in Neural and Cognitive Science"
 title_lines:
-  - "Multi-Scale Modelling and Emergence in Neural and Cognitive Science"
+  - "Multi-Scale Methods and Emergence in Neural and Cognitive Science"
   - "9-11 December"
   - "Toronto, Canada"
 description: |  
