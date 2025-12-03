@@ -87,7 +87,7 @@ draft = false
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}
 
 {{< session time="11:15" title="🎓 Session 2" tooltip="Session 2" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Keynote: Lenore Blum** - *TBD*  
+- **Keynote: Lenore Blum (remote)** - *TBD*  
 {{< /session >}}  
 
 {{< session time="13:00" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
@@ -115,13 +115,13 @@ draft = false
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
 
 {{< session time="11:15" title="🎓 Session 5" tooltip="Session 5" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Keynote: Stuart Kaufman** - *The Indefinite: A Third Transition in Science*  
+- **Keynote: Stuart Kaufman (remote)** - *The Indefinite: A Third Transition in Science*  
 {{< /session >}}  
 
 {{< session time="13:00" title="🍽️ Lunch" tooltip="" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
 {{< session time="14:00" title="🎓 Session 6" tooltip="Session 6" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Special session: Br. Phap Linh** - *Guided meditation*  
+- **Special session: Br. Phap Linh (remote)** - *Guided meditation*  
 - **Chris Harris** - *Embodied neurorobotics*  
 {{< /session >}}  
 
@@ -147,7 +147,7 @@ draft = false
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}} 
 
 {{< session time="11:15" title="🎓 Session 9" tooltip="Session 5" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Keynote: Lai-Sang Young** - *Dynamical systems and consciousness*   
+- **Keynote: Lai-Sang Young (remote)** - *TBD*   
 {{< /session >}}  
 
 {{< session time="12:15" title="🍽️ Lunch" tooltip="lunch" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
