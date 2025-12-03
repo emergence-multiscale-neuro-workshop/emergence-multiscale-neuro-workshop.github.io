@@ -150,9 +150,9 @@ draft = false
 - **Keynote: Lai-Sang Young** - *Dynamical systems and consciousness*   
 {{< /session >}}  
 
-{{< session time="12:00" title="🍽️ Lunch" tooltip="lunch" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
+{{< session time="12:15" title="🍽️ Lunch" tooltip="lunch" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
-{{< session time="13:00" title="🎓 Session 10" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}  
+{{< session time="13:15" title="🎓 Session 10" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **All in attendance** - *Freeform discussion*  
 - **Organizers** - *Concluding remarks*  
 {{< /session >}}
