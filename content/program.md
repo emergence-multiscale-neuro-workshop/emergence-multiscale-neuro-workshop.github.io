@@ -109,7 +109,7 @@ draft = false
 
 {{< session time="09:00" title="🎓 Session 4" tooltip="Session 1" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **Keynote: Daniel Polani** - *Organisation of the Information Flow in the Perception-Action Loop*  
-- **Noga Zaslavsky** - *Cultural evolution of efficiently compressed semantic systems in humans and AI*  
+- **Noga Zaslavsky** - *Cultural evolution of efficiently compressed semantic systems in humans and AI*
 {{< /session >}}  
 
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
@@ -146,15 +146,16 @@ draft = false
 
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}} 
 
-{{< session time="11:15" title="🎓 Session 9" tooltip="Session 5" bg="#2c2c2c" border="#a8d5ba" >}}  
+{{< session time="11:15" title="🎓 Session 9" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **Keynote: Lai-Sang Young (remote)** - *TBD*   
 {{< /session >}}  
 
 {{< session time="12:15" title="🍽️ Lunch" tooltip="lunch" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
-{{< session time="13:15" title="🎓 Session 10" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **All in attendance** - *Freeform discussion*  
-- **Organizers** - *Concluding remarks*  
+{{< session time="13:15" title="🎓 Session 10" tooltip="Session 10" bg="#2c2c2c" border="#a8d5ba" >}}  
+- **Chrystopher Nehaniv** - *TBD*
+- **Hanna Derets** - *TBD*
+- **Organizers/panel** - *Concluding remarks*  
 {{< /session >}}
 
 
