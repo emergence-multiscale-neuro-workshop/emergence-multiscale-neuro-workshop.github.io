@@ -108,7 +108,8 @@ draft = false
 {{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}  
 
 {{< session time="09:00" title="🎓 Session 4" tooltip="Session 1" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Keynote: Daniel Polani** - *TBD*  
+- **Keynote: Daniel Polani** - *Organisation of the Information Flow
+                in the Perception-Action Loop*  
 - **Noga Zaslavsky** - *TBD*  
 {{< /session >}}  
 
