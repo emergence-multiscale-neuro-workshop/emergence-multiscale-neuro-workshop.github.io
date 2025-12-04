@@ -109,7 +109,7 @@ draft = false
 
 {{< session time="09:00" title="🎓 Session 4" tooltip="Session 1" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **Keynote: Daniel Polani** - *Organisation of the Information Flow in the Perception-Action Loop*  
-- **Noga Zaslavsky** - *TBD*  
+- **Noga Zaslavsky** - *Cultural evolution of efficiently compressed semantic systems in humans and AI*  
 {{< /session >}}  
 
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
