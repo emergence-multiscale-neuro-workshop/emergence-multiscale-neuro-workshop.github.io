@@ -75,7 +75,7 @@ draft = false
 
 #### 🗓️ Day 1
 
-{{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}  
+{{< session time="08:45" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}  
 
 {{< session time="09:00" title="🎤 Opening Remarks" tooltip="Welcome from the organizers" bg="#2c2c2c" border="#c7d4e2" >}}{{< /session >}}  
 
@@ -105,7 +105,7 @@ draft = false
 
 #### 🗓️ Day 2
 
-{{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}  
+{{< session time="08:45" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}  
 
 {{< session time="09:00" title="🎓 Session 4" tooltip="Session 1" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **Keynote: Daniel Polani** - *Organisation of the Information Flow in the Perception-Action Loop*  
@@ -137,7 +137,7 @@ draft = false
 
 #### 🗓️ Day 3
 
-{{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}  
+{{< session time="08:45" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}  
 
 {{< session time="9:00" title="🎓 Session 8" tooltip="Session 8" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **John D. Griffiths** - *The curious case of the first eigenvector*  
