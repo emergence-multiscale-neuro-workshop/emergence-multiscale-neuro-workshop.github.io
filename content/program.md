@@ -57,13 +57,11 @@ draft = false
     <h3 style="margin: 1rem 0 0.5rem;">Noga Zaslavsky</h3>
     <p style="margin: 0; font-size: 1rem;">New York University<br><span style="color: #888;"></span></p>
   </div> 
-  <!--
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/ChrysNehaniv.jpg" alt="Chrystopher Nehaniv" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Chrystopher Nehanviv</h3>
     <p style="margin: 0; font-size: 1rem;">University of Waterloo<br><span style="color: #888;"></span></p>
   </div>
-  -->
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/PhapLinh.jpg" alt="Phap Linh" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Br. Phap Linh</h3>
