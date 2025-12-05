@@ -159,7 +159,7 @@ draft = false
 
 {{< session time="13:15" title="🎓 Session 10" tooltip="Session 10" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **Chrystopher Nehaniv** - *TBD*
-- **Hanna Derets** - *TBD*
+- **Hanna Derets** - *EEG microstate syntax analysis at multiple scales using epsilon-machines to differentiate meditators and non-meditators*
 - **Organizers/panel** - *Concluding remarks*  
 {{< /session >}}
 
