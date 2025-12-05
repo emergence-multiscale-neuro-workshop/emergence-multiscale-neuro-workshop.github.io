@@ -58,8 +58,8 @@ draft = false
     <p style="margin: 0; font-size: 1rem;">New York University<br><span style="color: #888;"></span></p>
   </div> 
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/ChrysNehaniv.jpg" alt="Chrystopher Nehaniv" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">Chrystopher Nehanviv</h3>
+    <img src="images/ChrysNehaniv.png" alt="Chrystopher Nehaniv" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Chrystopher Nehaniv</h3>
     <p style="margin: 0; font-size: 1rem;">University of Waterloo<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
