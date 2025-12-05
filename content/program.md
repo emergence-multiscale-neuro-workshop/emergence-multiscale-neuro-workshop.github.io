@@ -78,7 +78,7 @@ draft = false
 *(provisional, subject to change)*
 
 
-#### 🗓️ Day 1 (Tues. Dec. 9th)
+#### 🗓️ Day 1 *(Tues. Dec. 9th)*
 
 {{< session time="08:45" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}  
 
@@ -108,7 +108,7 @@ draft = false
 
 ---
 
-#### 🗓️ Day 2 (Wed. Dec. 10th)
+#### 🗓️ Day 2 *(Wed. Dec. 10th)*
 
 {{< session time="08:45" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}  
 
@@ -140,7 +140,7 @@ draft = false
 
 ---
 
-#### 🗓️ Day 3 (Thurs. Dec. 11th)
+#### 🗓️ Day 3 *(Thurs. Dec. 11th)*
 
 {{< session time="08:45" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}  
 
