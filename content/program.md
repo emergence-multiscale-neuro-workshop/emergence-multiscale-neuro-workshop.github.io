@@ -147,7 +147,7 @@ draft = false
 
 {{< session time="9:00" title="🎓 Session 8" tooltip="Session 8" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **John D. Griffiths** - *The curious case of the first eigenvector*  
-- TBD
+- **Raphaël Lafond-Mercier** - *Neural heterogeneity enables adaptive encoding of time sequences*
 {{< /session >}}
 
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}} 
