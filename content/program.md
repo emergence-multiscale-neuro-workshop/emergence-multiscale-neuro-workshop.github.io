@@ -100,9 +100,11 @@ draft = false
 {{< session time="14:00" title="🎓 Session 3" tooltip="Session 3" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **Keynote: Lionel Barnett** - *Dynamical Independence: Identification and discovery of emergent macroscopic phenomena in complex neural systems*  
 - **Andrew Lee** -  "The future of consciousness"  
-{{< /session >}}  
+{{< /session >}}
 
-{{< session time="16:00" title="🎓 Panel Discussion" tooltip="Panel Discussion" bg="#2c2c2c" border="#a8d5ba" >}} 
+{{< session time="15:30" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
+
+{{< session time="15:45" title="🎓 Panel Discussion" tooltip="Panel Discussion" bg="#2c2c2c" border="#a8d5ba" >}} 
 *Melanie Boly, William Marshall, Lenore Blum, Lionel Barnett, Andrew Lee*  
 {{< /session >}} 
 
@@ -127,14 +129,15 @@ draft = false
 {{< session time="13:00" title="🍽️ Lunch" tooltip="" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
 {{< session time="14:00" title="🎓 Session 6" tooltip="Session 6" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Special session: Br. Phap Linh (remote)** - *the mathematics of interbeing—a meditation*  
-- **Chris Harris** - *Embodied neurorobotics*  
+- **Special session: Br. Phap Linh (remote)** - *the mathematics of interbeing—a meditation*
+- **Conversation between Stuart Kauffman and Br. Phap Linh** 
 {{< /session >}}  
 
-{{< session time="15:45" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
+{{< session time="15:20" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
 
-{{< session time="16:00" title="🎓 Panel Discussion" tooltip="" bg="#2c2c2c" border="#a8d5ba" >}}  
-*Daniel Polani, Noga Zaslavsky, Chris Harris*
+{{< session time="15:45" title="🎓 Session 7 and Panel Discussion" tooltip="" bg="#2c2c2c" border="#a8d5ba" >}}  
+- **Chris Harris** - *Embodied neurorobotics*
+- **Panel Discussion:** *Daniel Polani, Noga Zaslavsky, Chris Harris*
 {{< /session >}}  
 
 
@@ -158,10 +161,10 @@ draft = false
 
 {{< session time="12:15" title="🍽️ Lunch" tooltip="lunch" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
-{{< session time="13:15" title="🎓 Session 10" tooltip="Session 10" bg="#2c2c2c" border="#a8d5ba" >}}  
+{{< session time="13:15" title="🎓 Session 10 and Concluding Remarks" tooltip="Session 10" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **Chrystopher Nehaniv** - *Coarse-Graining Dynamics and the Emergence of Complexity in Evolved Intelligence*
 - **Hanna Derets** - *EEG microstate syntax analysis at multiple scales using epsilon-machines to differentiate meditators and non-meditators*
-- **Organizers/panel** - *Concluding remarks*  
+- **Organizers/Panel** - *Concluding remarks*  
 {{< /session >}}
 
 
