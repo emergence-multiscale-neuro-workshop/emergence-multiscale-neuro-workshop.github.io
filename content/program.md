@@ -95,7 +95,7 @@ draft = false
 - **Keynote: Lenore Blum (remote)** - *TBD*  
 {{< /session >}}  
 
-{{< session time="13:15" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
+{{< session time="12:15" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
 {{< session time="14:15" title="🎓 Session 3" tooltip="Session 3" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **Keynote: Lionel Barnett** - *Dynamical Independence: Identification and discovery of emergent macroscopic phenomena in complex neural systems*  
@@ -126,7 +126,7 @@ draft = false
 - **Keynote: Stuart Kauffman (remote)** - *The Indefinite: A Third Transition in Science*  
 {{< /session >}}  
 
-{{< session time="13:00" title="🍽️ Lunch" tooltip="" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
+{{< session time="12:15" title="🍽️ Lunch" tooltip="" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
 {{< session time="14:00" title="🎓 Session 6" tooltip="Session 6" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **Special session: Br. Phap Linh (remote)** - *the mathematics of interbeing—a meditation*
