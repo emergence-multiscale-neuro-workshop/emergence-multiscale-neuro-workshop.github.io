@@ -153,7 +153,7 @@ draft = false
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}} 
 
 {{< session time="11:15" title="🎓 Session 9" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Keynote: Lai-Sang Young (remote)** - *TBD*   
+- **Keynote: Lai-Sang Young (remote)** - *A multiscale approach to computing neuronal dynamics*   
 {{< /session >}}  
 
 {{< session time="12:15" title="🍽️ Lunch" tooltip="lunch" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
