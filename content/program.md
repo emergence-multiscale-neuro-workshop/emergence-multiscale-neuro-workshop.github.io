@@ -123,7 +123,7 @@ draft = false
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
 
 {{< session time="11:15" title="🎓 Session 5" tooltip="Session 5" bg="#2c2c2c" border="#a8d5ba" >}}  
-- **Keynote: Stuart Kaufman (remote)** - *The Indefinite: A Third Transition in Science*  
+- **Keynote: Stuart Kauffman (remote)** - *The Indefinite: A Third Transition in Science*  
 {{< /session >}}  
 
 {{< session time="13:00" title="🍽️ Lunch" tooltip="" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
