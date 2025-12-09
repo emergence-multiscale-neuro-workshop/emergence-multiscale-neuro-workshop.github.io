@@ -95,16 +95,16 @@ draft = false
 - **Keynote: Lenore Blum (remote)** - *TBD*  
 {{< /session >}}  
 
-{{< session time="13:00" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
+{{< session time="13:15" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}  
 
-{{< session time="14:00" title="🎓 Session 3" tooltip="Session 3" bg="#2c2c2c" border="#a8d5ba" >}}  
+{{< session time="14:15" title="🎓 Session 3" tooltip="Session 3" bg="#2c2c2c" border="#a8d5ba" >}}  
 - **Keynote: Lionel Barnett** - *Dynamical Independence: Identification and discovery of emergent macroscopic phenomena in complex neural systems*  
 - **Andrew Lee** -  "The future of consciousness"  
 {{< /session >}}
 
-{{< session time="15:30" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
+{{< session time="15:45" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}  
 
-{{< session time="15:45" title="🎓 Panel Discussion" tooltip="Panel Discussion" bg="#2c2c2c" border="#a8d5ba" >}} 
+{{< session time="16:00" title="🎓 Panel Discussion" tooltip="Panel Discussion" bg="#2c2c2c" border="#a8d5ba" >}} 
 *Melanie Boly, William Marshall, Lenore Blum, Lionel Barnett, Andrew Lee*  
 {{< /session >}} 
 
